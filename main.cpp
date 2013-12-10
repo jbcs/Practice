@@ -10,7 +10,7 @@ int main(int arg, char **argc)
 	string strMNamel
 	string strLName;
 
-	string strStreenAddress;
+	string strStreetAddress;
 
 	cout << "Please enter your age: ";
 	cin >> iAge;
@@ -22,7 +22,7 @@ int main(int arg, char **argc)
 	cin >> strMName;
 
 	cout << "Please add your Street address: ";
-	cin >> strStreenAddress;
+	cin >> strStreetAddress;
 
 	cout << "Please enter your last name: ";
 	cin >> strLName;
